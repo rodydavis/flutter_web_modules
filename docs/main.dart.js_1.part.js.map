@@ -5,7 +5,7 @@
   "sourceRoot": "",
   "sources": ["../../../lib/lazy_lib.dart"],
   "names": ["add"],
-  "mappings": "A;;GAAIA,YAAkBA,QAAOA,C",
+  "mappings": "A;;GAAIA,YAAkBA,UAASA,C",
   "x_org_dartlang_dart2js": {
     "minified_names": {
       "global": "",
