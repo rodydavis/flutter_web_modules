@@ -1,1 +1,1 @@
-int add(int value) => value++;
+int add(int value) => value + 1;
